@@ -1,0 +1,15 @@
+{
+  "name": "child-process-pool-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "process-pool.js",
+  "scripts": {
+    "start": "node process-pool",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamison Prianos",
+  "license": "MIT",
+  "dependencies": {
+    "lazy-promise": "^3.0.1"
+  }
+}
